@@ -1,0 +1,700 @@
+### Warning: File system error.
+### Filename: /usr/sbin/fixrmtab
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/bin/vimtutor
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/share/grub/i386-redhat/e2fs_stage1_5
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/share/grub/i386-redhat/fat_stage1_5
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/share/grub/i386-redhat/ffs_stage1_5
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/share/grub/i386-redhat/minix_stage1_5
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/share/grub/i386-redhat/reiserfs_stage1_5
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/share/grub/i386-redhat/stage1
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/share/grub/i386-redhat/stage2
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /usr/share/grub/i386-redhat/vstafs_stage1_5
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/accton
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/busybox
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/busybox.anaconda
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/convertquota
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/dosfsck
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/debugreiserfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/dump
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/dump.static
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/fsck.msdos
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/fsck.vfat
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ftl_check
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ftl_format
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/hdparm
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkbootdisk
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkdosfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkfs.msdos
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkfs.vfat
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkinitrd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkraid
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkreiserfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/pcinitrd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/quotacheck
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/quotaon
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/raidstart
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/reiserfsck
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/resize_reiserfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/restore
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/restore.static
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/scsi_info
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/stinit
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/unpack
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/adjtimex
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/insmod.static
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/insmod_ksymoops_clean
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/klogd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/minilogd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/sndconfig
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/arp
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ether-wake
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ifconfig
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ifport
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ifuser
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ipmaddr
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/iptunnel
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ipx_configure
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ipx_interface
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ipx_internal_net
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/iwconfig
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/iwgetid
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/iwlist
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/iwpriv
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/iwspy
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mgetty
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mingetty
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/nameif
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/plipconfig
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/portmap
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/route
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/slattach
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/vgetty
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ypbind
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/fuser
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/initlog
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/pam_tally
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/pwdb_chkpwd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rescuept
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rmt
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rpc.lockd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rpc.statd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rpcdebug
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/setsysfont
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/syslogd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/cardctl
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/cardmgr
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/dump_cis
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/elvtune
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/hotplug
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ide_info
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/lspci
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/lspnp
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mii-tool
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/pack_cis
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/probe
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/setpci
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/shapecfg
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/kernelversion
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/genksyms
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/getkey
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/nash
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/sash
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/fsck.reiserfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/kallsyms
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/ksyms
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkfs.reiserfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mount.ncp
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mount.ncpfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mount.smb
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mount.smbfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/quotaoff
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/raid0run
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/raidhotadd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/raidhotremove
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/raidstop
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rdump
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rdump.static
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rrestore
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/rrestore.static
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/grub
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/grub-install
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/grub-md5-crypt
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/lilo
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /sbin/mkkerneldoth
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lib/nfs/rmtab
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/iptables
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/portmap
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/apmd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/atd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/canna
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/crond
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/gpm
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/kudzu
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/netfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/nfslock
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/ntpd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/random
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/sendmail
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/sshd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/syslog
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/xfs
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /var/lock/subsys/xinetd
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/sysconfig/network-scripts/ifdown-cipcb
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/sysconfig/network-scripts/ifdown-sl
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/sysconfig/network-scripts/ifup-cipcb
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/sysconfig/network-scripts/ifup-sl
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/mail.rc
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/modules.conf
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/named.conf
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/samba/smb.conf
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/yp.conf
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/xinetd.conf
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /etc/syslog.conf
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/setserial
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/sfxload
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/ash
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/ash.static
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/aumix-minimal
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/doexec
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/ed
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/mail
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/mt
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/netstat
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/zsh
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/bash2
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/bsh
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/csh
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/red
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/ksh
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /bin/tcsh
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /root/.Xresources
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /root/.esd_auth
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /root/.gnome
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /root/.ICEauthority
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /root/.Xauthority
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /dev/cua0
+### No such file or directory
+### Continuing...
+### Warning: File system error.
+### Filename: /dev/kmem
+### No such file or directory
+### Continuing...
